@@ -25,6 +25,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 This app was created using the following libraries:
 
 tkinter
+
 Pillow
 
 ## Author
